@@ -19,7 +19,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,androidstudio,java,kotlin,git)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sancarlos25&layout=donut)](https://github.com/sancarlos25/github-readme-stats)
 
 ## Follow Me 
 
